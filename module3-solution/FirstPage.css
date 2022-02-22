@@ -1,0 +1,40 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: lightgray;
+  font-family: 'Oxygen', sans-serif;
+}
+header {
+  background-color: grey;
+  height: 70px;
+  width: auto;
+
+}
+
+h1 {
+  text-decoration: none;
+  margin-top: auto;
+  position: auto;
+  font-family: cursive;
+}
+
+h2,h3 {
+  text-align: center;
+  color: black;
+  font-family: cursive;
+}
+
+.contain {
+  background-color: blue;
+  height: auto;
+
+}
+
+p {
+  font-family: cursive;
+}
+
+.navbar-header .button .navbar-toggler{
+  border: 1px solid black;
+  color: black;
+}
